@@ -1,3 +1,5 @@
-Uber Drive Driver Trips Data Analysis 
-Learning Python for Data Science
-The project is based on the trips made by Uber drivers. Different aspects of the trip are analyzed by using different functions in Python.
+## Uber Drive Trips Data Analysis
+Problem:
+
+The project is based on the trips made by Uber drivers. 
+Here, we are analyzing different aspects of the trips by doing Exploratory Data Analysis. 
